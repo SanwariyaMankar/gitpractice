@@ -1,6 +1,5 @@
 #include <stdio.h>
 void main(){
-    printf("version 3");
+    printf("version 1");
     printf("second");
-    
 }
